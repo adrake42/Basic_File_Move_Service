@@ -1,0 +1,55 @@
+MACHINE OUTPUT PATHNAME
+C:\\Basic_File_Move_Service\\TestMachineDir\\
+C:\\Basic_File_Move_Service\\TestMachineDir2\\
+
+MACHINE NETWORK DOMAIN
+ADRAKE-PC
+ADRAKE-PC
+
+MACHINE NETWORK USER
+ServiceAdmin
+ServiceAdmin
+
+MACHINE NETWORK PASSWORD
+gray1010
+gray1010
+
+DESTINATION IMPORT PATHNAME
+C:\\Basic_File_Move_Service\\TestDestinationDir\\
+C:\\Basic_File_Move_Service\\TestDestinationDir\\
+
+DESTINATION NETWORK DOMAIN
+ADRAKE-PC
+ADRAKE-PC
+
+DESTINATION NETWORK USER
+ServiceAdmin
+ServiceAdmin
+
+DESTINATION NETWORK PASSWORD
+gray1010
+gray1010
+
+MOVE OR COPY (false = move, true = copy)
+true
+true
+
+MOVE/COPY ENTIRE DIRECTORY (false = single specific file, true = everything)
+true
+false
+
+TEMP NETWORK PATHNAME
+C:\\Basic_File_Move_Service\\Temp1\\
+C:\\Basic_File_Move_Service\\Temp2\\
+
+LOG FILE PATHNAME
+C:\\Basic_File_Move_Service\\Log.txt
+
+LAST ACCESS DATE PATHNAME
+C:\\Basic_File_Move_Service\\LastAccessDate.txt
+
+TIMER DURATION
+60000
+
+DEBUGMODE
+false

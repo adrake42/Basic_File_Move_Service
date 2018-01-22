@@ -1,0 +1,18 @@
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\QCCalc_to_Historian_Service\QCCalc_to_Historian_Service\bin\Release\QCCalc_to_Historian_Service.exe.config
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\QCCalc_to_Historian_Service\QCCalc_to_Historian_Service\obj\Release\QCCalc_to_Historian_Service.ProjectInstaller.resources
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\QCCalc_to_Historian_Service\QCCalc_to_Historian_Service\obj\Release\QCCalc_to_Historian_Service.Service1.resources
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\QCCalc_to_Historian_Service\QCCalc_to_Historian_Service\obj\Release\QCCalc_to_Historian_Service.csproj.GenerateResource.Cache
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\QCCalc_to_Historian_Service\QCCalc_to_Historian_Service\bin\Release\QCCalc_to_Historian_Service.exe
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\QCCalc_to_Historian_Service\QCCalc_to_Historian_Service\bin\Release\QCCalc_to_Historian_Service.pdb
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\QCCalc_to_Historian_Service\QCCalc_to_Historian_Service\obj\Release\QCCalc_to_Historian_Service.exe
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\QCCalc_to_Historian_Service\QCCalc_to_Historian_Service\obj\Release\QCCalc_to_Historian_Service.pdb
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\QCCalc_to_Historian_Service\QCCalc_to_Historian_Service\obj\Release\QCCalc_to_Historian_Service.csprojResolveAssemblyReference.cache
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\QCCalc_to_Historian_Service\bin\Release\QCCalc_to_Historian_Service.exe.config
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\QCCalc_to_Historian_Service\obj\Release\QCCalc_to_Historian_Service.exe
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\QCCalc_to_Historian_Service\obj\Release\QCCalc_to_Historian_Service.pdb
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\QCCalc_to_Historian_Service\bin\Release\QCCalc_to_Historian_Service.exe
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\QCCalc_to_Historian_Service\bin\Release\QCCalc_to_Historian_Service.pdb
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\QCCalc_to_Historian_Service\obj\Release\QCCalc_to_Historian_Service.csprojResolveAssemblyReference.cache
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\QCCalc_to_Historian_Service\obj\Release\QCCalc_to_Historian_Service.ProjectInstaller.resources
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\QCCalc_to_Historian_Service\obj\Release\QCCalc_to_Historian_Service.Service1.resources
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\QCCalc_to_Historian_Service\obj\Release\QCCalc_to_Historian_Service.csproj.GenerateResource.Cache
