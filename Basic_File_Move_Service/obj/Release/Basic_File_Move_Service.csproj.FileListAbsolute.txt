@@ -1,0 +1,36 @@
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\QCCalc_to_Historian_Service\obj\Release\Basic_File_Move_Service.csprojResolveAssemblyReference.cache
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\QCCalc_to_Historian_Service\obj\Release\Basic_File_Move_Service.ProjectInstaller.resources
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\QCCalc_to_Historian_Service\obj\Release\Basic_File_Move_Service.csproj.GenerateResource.Cache
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\QCCalc_to_Historian_Service\obj\Release\Basic_File_Move_Service.Service1.resources
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\QCCalc_to_Historian_Service\bin\Release\Basic_File_Move_Service.exe.config
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\QCCalc_to_Historian_Service\bin\Release\Basic_File_Move_Service.exe
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\QCCalc_to_Historian_Service\bin\Release\Basic_File_Move_Service.pdb
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\QCCalc_to_Historian_Service\obj\Release\Basic_File_Move_Service.exe
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\QCCalc_to_Historian_Service\obj\Release\Basic_File_Move_Service.pdb
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\Basic_File_Move_Service\bin\Release\Basic_File_Move_Service.exe.config
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\Basic_File_Move_Service\obj\Release\Basic_File_Move_Service.exe
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\Basic_File_Move_Service\obj\Release\Basic_File_Move_Service.pdb
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\Basic_File_Move_Service\bin\Release\Basic_File_Move_Service.exe
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\Basic_File_Move_Service\bin\Release\Basic_File_Move_Service.pdb
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\Basic_File_Move_Service\obj\Release\Basic_File_Move_Service.csprojResolveAssemblyReference.cache
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\Basic_File_Move_Service\obj\Release\Basic_File_Move_Service.ProjectInstaller.resources
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\Basic_File_Move_Service\obj\Release\Basic_File_Move_Service.Service1.resources
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic File Move Service\Basic_File_Move_Service\obj\Release\Basic_File_Move_Service.csproj.GenerateResource.Cache
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic_File_Move_Service\Basic_File_Move_Service\bin\Release\Basic_File_Move_Service.exe.config
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic_File_Move_Service\Basic_File_Move_Service\obj\Release\Basic_File_Move_Service.exe
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic_File_Move_Service\Basic_File_Move_Service\obj\Release\Basic_File_Move_Service.pdb
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic_File_Move_Service\Basic_File_Move_Service\bin\Release\Basic_File_Move_Service.exe
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic_File_Move_Service\Basic_File_Move_Service\bin\Release\Basic_File_Move_Service.pdb
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic_File_Move_Service\Basic_File_Move_Service\obj\Release\Basic_File_Move_Service.csprojResolveAssemblyReference.cache
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic_File_Move_Service\Basic_File_Move_Service\obj\Release\Basic_File_Move_Service.ProjectInstaller.resources
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic_File_Move_Service\Basic_File_Move_Service\obj\Release\Basic_File_Move_Service.Service1.resources
+C:\Users\ADRAKE\Documents\!GE Transportation - Grove City, PA\Custom Data Collectors (C#)\Basic_File_Move_Service\Basic_File_Move_Service\obj\Release\Basic_File_Move_Service.csproj.GenerateResource.Cache
+C:\Basic_File_Move_Service\Basic_File_Move_Service\bin\Release\Basic_File_Move_Service.exe.config
+C:\Basic_File_Move_Service\Basic_File_Move_Service\obj\Release\Basic_File_Move_Service.exe
+C:\Basic_File_Move_Service\Basic_File_Move_Service\obj\Release\Basic_File_Move_Service.pdb
+C:\Basic_File_Move_Service\Basic_File_Move_Service\obj\Release\Basic_File_Move_Service.csprojResolveAssemblyReference.cache
+C:\Basic_File_Move_Service\Basic_File_Move_Service\obj\Release\Basic_File_Move_Service.ProjectInstaller.resources
+C:\Basic_File_Move_Service\Basic_File_Move_Service\obj\Release\Basic_File_Move_Service.Service1.resources
+C:\Basic_File_Move_Service\Basic_File_Move_Service\obj\Release\Basic_File_Move_Service.csproj.GenerateResource.Cache
+C:\Basic_File_Move_Service\Basic_File_Move_Service\bin\Release\Basic_File_Move_Service.exe
+C:\Basic_File_Move_Service\Basic_File_Move_Service\bin\Release\Basic_File_Move_Service.pdb
