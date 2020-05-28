@@ -2,7 +2,7 @@
 //                                                                                                   //
 // Author:		Andrew C Drake                                                                       //
 // Company:     Gray Matter Systems                                                                  //
-// Client:      GE Transportation - Grove City                                                       //
+// Client:      CONFIDENTIAL                                                                      //
 // Create Date: 07/22/16        Version: 1.3      Last Update: 1/25/17                               //
 // Description:	Service for moving files from one server to another (from a third server)            //
 //              Seperate user impersonation for each server                                          //
